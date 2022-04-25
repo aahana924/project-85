@@ -1,0 +1,17 @@
+body{
+
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 10px;
+ 
+}
+
+h1,h4
+{
+	
+	color:red!important;
+	
+}
